@@ -1,0 +1,12 @@
+AITBS LIVE (AWS)
+
+18.138.246.38 - ec2-user
+private key = aws-aitbs.ph-18.138.246.38.ppk
+public key = aitbs-public-key-2023.ppk
+
+
+
+AITBS DEV (DIGITAL OCEAN)
+206.189.157.57 = dev3.aitbs.ph
+134.209.106.230 = dev.aitbs.ph (dev4)
+private key = dev-aitbs.ph-digitalocean.ppk
