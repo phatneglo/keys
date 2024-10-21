@@ -1,0 +1,29 @@
+itbs.solutions
+143.198.194.150 
+USERNAME: root 
+PASSWORD: ksd9sdfM0dlRkldP3lasz
+
+hor.itbsstudio.com
+nginx-HOR
+152.42.249.97
+
+kogkog : root
+user: itbscorp = dev
+passphrase: RubberDinghyRapid$
+
+itbscorp-passauth: nM3%lamRpauwP
+kogkog-passauth: qpMald&3RlP2sn
+
+posgres / MySQL
+user: horLIRMD
+pass: ierM$lRldmPl(3a
+
+****** EMXQ HOR *******
+209.97.167.29
+
+https://mqtt.itbsstudio.com:8443 
+admin : PQw9kUpjjAWV4VW
+
+/*ignore*/
+FTP: 
+Group: devgroup
